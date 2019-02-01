@@ -23,7 +23,7 @@ conda activate DDT
 
 ### Running Tests
 
-Nake the tests directory your working directory and execute run_tests.sh
+Make the tests directory your working directory and execute run_tests.sh
 
 ```bash
 cd ./tests
