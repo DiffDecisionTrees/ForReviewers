@@ -9,6 +9,7 @@ dependencies:
     - pytest==4.0.2
     - tensorboard==1.9.0
     - tensorboardX==1.4
+    - gym==0.10.5
     - skorch==0.5.0.post0
     - torchvision==0.2.1
     - torch==0.4.1
